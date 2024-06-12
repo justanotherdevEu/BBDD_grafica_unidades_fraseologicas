@@ -5,7 +5,7 @@ import json
 #instalamos de nuevo Python, por ejemplo Python 3.10      por si acaso, con winget por ejemplo, un gestor de paquetes ya integrado en Windows
 print("\n\t\t Comprobando que Python 3.10 está instalado.....")
 os.system('winget install "Python.Python.3.10"')
-#print("\n\t\t Comprobando que librerías boto3 y AWS están instaladas.....")
+
 
 
 
